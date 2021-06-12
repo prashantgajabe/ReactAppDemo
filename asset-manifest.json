@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactAppDemo/static/css/main.3fd6159d.chunk.css",
+    "main.js": "/ReactAppDemo/static/js/main.78fbc5a8.chunk.js",
+    "main.js.map": "/ReactAppDemo/static/js/main.78fbc5a8.chunk.js.map",
+    "runtime-main.js": "/ReactAppDemo/static/js/runtime-main.a12686a2.js",
+    "runtime-main.js.map": "/ReactAppDemo/static/js/runtime-main.a12686a2.js.map",
+    "static/css/2.00263460.chunk.css": "/ReactAppDemo/static/css/2.00263460.chunk.css",
+    "static/js/2.7de221c3.chunk.js": "/ReactAppDemo/static/js/2.7de221c3.chunk.js",
+    "static/js/2.7de221c3.chunk.js.map": "/ReactAppDemo/static/js/2.7de221c3.chunk.js.map",
+    "index.html": "/ReactAppDemo/index.html",
+    "static/css/2.00263460.chunk.css.map": "/ReactAppDemo/static/css/2.00263460.chunk.css.map",
+    "static/css/main.3fd6159d.chunk.css.map": "/ReactAppDemo/static/css/main.3fd6159d.chunk.css.map",
+    "static/js/2.7de221c3.chunk.js.LICENSE.txt": "/ReactAppDemo/static/js/2.7de221c3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ReactAppDemo/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a12686a2.js",
+    "static/css/2.00263460.chunk.css",
+    "static/js/2.7de221c3.chunk.js",
+    "static/css/main.3fd6159d.chunk.css",
+    "static/js/main.78fbc5a8.chunk.js"
+  ]
+}
